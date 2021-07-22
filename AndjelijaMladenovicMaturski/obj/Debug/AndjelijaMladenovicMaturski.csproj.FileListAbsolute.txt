@@ -1,0 +1,9 @@
+D:\RG\Maturski\AndjelijaMladenovicMaturski\AndjelijaMladenovicMaturski\bin\Debug\AndjelijaMladenovicMaturski.exe.config
+D:\RG\Maturski\AndjelijaMladenovicMaturski\AndjelijaMladenovicMaturski\bin\Debug\AndjelijaMladenovicMaturski.exe
+D:\RG\Maturski\AndjelijaMladenovicMaturski\AndjelijaMladenovicMaturski\bin\Debug\AndjelijaMladenovicMaturski.pdb
+D:\RG\Maturski\AndjelijaMladenovicMaturski\AndjelijaMladenovicMaturski\obj\Debug\AndjelijaMladenovicMaturski.csprojResolveAssemblyReference.cache
+D:\RG\Maturski\AndjelijaMladenovicMaturski\AndjelijaMladenovicMaturski\obj\Debug\AndjelijaMladenovicMaturski.Form1.resources
+D:\RG\Maturski\AndjelijaMladenovicMaturski\AndjelijaMladenovicMaturski\obj\Debug\AndjelijaMladenovicMaturski.Properties.Resources.resources
+D:\RG\Maturski\AndjelijaMladenovicMaturski\AndjelijaMladenovicMaturski\obj\Debug\AndjelijaMladenovicMaturski.csproj.GenerateResource.Cache
+D:\RG\Maturski\AndjelijaMladenovicMaturski\AndjelijaMladenovicMaturski\obj\Debug\AndjelijaMladenovicMaturski.exe
+D:\RG\Maturski\AndjelijaMladenovicMaturski\AndjelijaMladenovicMaturski\obj\Debug\AndjelijaMladenovicMaturski.pdb
